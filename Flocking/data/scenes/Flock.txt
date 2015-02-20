@@ -1,0 +1,1236 @@
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+0 0 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 30 40
+0 0 0
+0
+boid.txt
+10 70 0
+0 0 0
+0
+boid.txt
+10 50 40
+0 0 0
+0
+boid.txt
+0 40 0
+0 0 0
+0
+boid.txt
+10 0 30
+0 0 0
+0
+boid.txt
+0 0 30
+0 0 0
+0
+boid.txt
+50 0 0
+0 0 0
+0

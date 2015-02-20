@@ -1,0 +1,17 @@
+Transform
+0 0 0
+0 1 0
+1 0 0
+0 0 -1
+0 0 0
+0
+Model
+sphere
+100 100 100
+0 0 1 1
+SphereBody
+1
+1
+1
+0 0 0
+50
